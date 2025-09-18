@@ -6,7 +6,7 @@
 
 </head>
 <body onload="noBack();" onpageshow="if (event.persisted) noBack();" onunload="" >
-   <h1>Welcome Self Help Grops1</h1>
+   <h1>Welcome Self Help Group9096</h1>
    <a href="login">Login</a>
    <script type="text/javascript">
     window.history.forward();
